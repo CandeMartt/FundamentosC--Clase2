@@ -1,0 +1,15 @@
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\bin\Debug\net6.0\FundamentoCSHARP_Clase2.exe
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\bin\Debug\net6.0\FundamentoCSHARP_Clase2.deps.json
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\bin\Debug\net6.0\FundamentoCSHARP_Clase2.runtimeconfig.json
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\bin\Debug\net6.0\FundamentoCSHARP_Clase2.dll
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\bin\Debug\net6.0\FundamentoCSHARP_Clase2.pdb
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.csproj.AssemblyReference.cache
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.AssemblyInfoInputs.cache
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.AssemblyInfo.cs
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.csproj.CoreCompileInputs.cache
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.dll
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\refint\FundamentoCSHARP_Clase2.dll
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.pdb
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\FundamentoCSHARP_Clase2.genruntimeconfig.cache
+C:\Users\CANDELA\source\repos\FundamentoCSHARP_Clase2\FundamentoCSHARP_Clase2\obj\Debug\net6.0\ref\FundamentoCSHARP_Clase2.dll

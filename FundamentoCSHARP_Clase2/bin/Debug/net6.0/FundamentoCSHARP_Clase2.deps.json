@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FundamentoCSHARP_Clase2/1.0.0": {
+        "runtime": {
+          "FundamentoCSHARP_Clase2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FundamentoCSHARP_Clase2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
